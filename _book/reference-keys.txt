@@ -1,6 +1,4 @@
-fig:nice-fig
-tab:nice-tab
-prerequisites
+test
 intro
 shiny-app-embedding-example
 literature
