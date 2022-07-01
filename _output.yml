@@ -9,6 +9,7 @@ bookdown::gitbook:
     sharing:
       github: yes
       facebook: no
+    output_dir: "docs"
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
