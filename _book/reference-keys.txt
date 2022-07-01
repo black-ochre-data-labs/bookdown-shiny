@@ -1,0 +1,12 @@
+fig:nice-fig
+tab:nice-tab
+prerequisites
+intro
+shiny-app-embedding-example
+literature
+methods
+math-example
+applications
+example-one
+example-two
+final-words
