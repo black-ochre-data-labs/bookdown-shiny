@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: tki-indigenous-genomics/bookdown-shiny
 description: "This is a minimal example of using the bookdown package to embed a Shiny app on our github pages website. The output format for this example is bookdown::gitbook."
 ---
 
