@@ -1,5 +1,5 @@
 --- 
-title: "Shiny App Example for Blac Ochre Data Labs"
+title: "Shiny App Example for Black Ochre Data Labs"
 author: "Holly Martin"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
