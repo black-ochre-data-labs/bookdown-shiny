@@ -1,0 +1,12 @@
+# Introduction {#intro}
+
+## Shiny App Embedding Example
+
+The below Shiny app is taken from the [Bookdown documentation](https://bookdown.org/yihui/bookdown/web-pages-and-shiny-apps.html) and was created by Yihui and hosted on shinyapps.io
+
+
+```{r}
+knitr::include_app("https://yihui.shinyapps.io/miniUI/",
+  height = "600px")
+```
+
